@@ -1,0 +1,4 @@
+Hello world! This is a simple English text.
+Programming is fun and exciting.
+We can analyze both Ukrainian and English texts.
+This program counts words in any text file.

@@ -1,0 +1,14 @@
+D:\SMOOP2\Lab_1\Lab1 — копия\bin\Debug\net8.0\Lab1.exe
+D:\SMOOP2\Lab_1\Lab1 — копия\bin\Debug\net8.0\Lab1.deps.json
+D:\SMOOP2\Lab_1\Lab1 — копия\bin\Debug\net8.0\Lab1.runtimeconfig.json
+D:\SMOOP2\Lab_1\Lab1 — копия\bin\Debug\net8.0\Lab1.dll
+D:\SMOOP2\Lab_1\Lab1 — копия\bin\Debug\net8.0\Lab1.pdb
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\Lab1.dll
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\refint\Lab1.dll
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\Lab1.pdb
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+D:\SMOOP2\Lab_1\Lab1 — копия\obj\Debug\net8.0\ref\Lab1.dll

@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SMOOP2\\Lab_1\\Lab1 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A903118-7B95-495C-A68D-914E01B01BCA}|..\\Lab1.4\\Lab1.4.csproj|d:\\smoop2\\lab_1\\lab1.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A903118-7B95-495C-A68D-914E01B01BCA}|..\\Lab1.4\\Lab1.4.csproj|d:\\smoop2\\lab_1\\lab1.4\\menusystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A903118-7B95-495C-A68D-914E01B01BCA}|..\\Lab1.4\\Lab1.4.csproj|d:\\smoop2\\lab_1\\lab1.4\\dictionarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A903118-7B95-495C-A68D-914E01B01BCA}|..\\Lab1.4\\Lab1.4.csproj|d:\\smoop2\\lab_1\\lab1.4\\dictionary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab_1\\Lab1.4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab1.4\\Program.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab_1\\Lab1.4\\Program.cs",
+              "RelativeToolTip": "..\\Lab1.4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:39:28.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuSystem.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab_1\\Lab1.4\\MenuSystem.cs",
+              "RelativeDocumentMoniker": "..\\Lab1.4\\MenuSystem.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab_1\\Lab1.4\\MenuSystem.cs",
+              "RelativeToolTip": "..\\Lab1.4\\MenuSystem.cs",
+              "ViewState": "AgIAAHkCAAAAAAAAAAAQwJMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:39:14.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DictionaryManager.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab_1\\Lab1.4\\DictionaryManager.cs",
+              "RelativeDocumentMoniker": "..\\Lab1.4\\DictionaryManager.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab_1\\Lab1.4\\DictionaryManager.cs",
+              "RelativeToolTip": "..\\Lab1.4\\DictionaryManager.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAUwDEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:39:03.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dictionary.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab_1\\Lab1.4\\Dictionary.cs",
+              "RelativeDocumentMoniker": "..\\Lab1.4\\Dictionary.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab_1\\Lab1.4\\Dictionary.cs",
+              "RelativeToolTip": "..\\Lab1.4\\Dictionary.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAuwEEBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:38:52.501Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

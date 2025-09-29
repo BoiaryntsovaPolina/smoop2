@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SMOOP2\\Lab2\\Lab2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|d:\\smoop2\\lab2\\lab2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|d:\\smoop2\\lab2\\lab2.1\\taskqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|solutionrelative:taskqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|d:\\smoop2\\lab2\\lab2.1\\demomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|solutionrelative:demomethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|d:\\smoop2\\lab2\\lab2.1\\companyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|solutionrelative:companyfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|d:\\smoop2\\lab2\\lab2.1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5ADAF7-9613-459D-8F4C-EFAEEC9A262F}|Lab2.1.csproj|solutionrelative:company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskQueries.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab2\\Lab2.1\\TaskQueries.cs",
+              "RelativeDocumentMoniker": "TaskQueries.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab2\\Lab2.1\\TaskQueries.cs",
+              "RelativeToolTip": "TaskQueries.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAowC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:17:11.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab2\\Lab2.1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab2\\Lab2.1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:17:11.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoMethods.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab2\\Lab2.1\\DemoMethods.cs",
+              "RelativeDocumentMoniker": "DemoMethods.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab2\\Lab2.1\\DemoMethods.cs",
+              "RelativeToolTip": "DemoMethods.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:17:08.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyFactory.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab2\\Lab2.1\\CompanyFactory.cs",
+              "RelativeDocumentMoniker": "CompanyFactory.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab2\\Lab2.1\\CompanyFactory.cs",
+              "RelativeToolTip": "CompanyFactory.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:17:07.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab2\\Lab2.1\\Company.cs",
+              "RelativeDocumentMoniker": "Company.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab2\\Lab2.1\\Company.cs",
+              "RelativeToolTip": "Company.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:17:06.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
