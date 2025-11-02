@@ -1,0 +1,42 @@
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\bin\Debug\net8.0-windows\Modultask2.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\bin\Debug\net8.0-windows\Modultask2.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\bin\Debug\net8.0-windows\Modultask2.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\bin\Debug\net8.0-windows\Modultask2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\bin\Debug\net8.0-windows\Modultask2.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\refint\Modultask2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\Modultask2.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2\obj\Debug\net8.0-windows\ref\Modultask2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\bin\Debug\net8.0-windows\Modultask2.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\bin\Debug\net8.0-windows\Modultask2.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\bin\Debug\net8.0-windows\Modultask2.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\bin\Debug\net8.0-windows\Modultask2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\bin\Debug\net8.0-windows\Modultask2.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\refint\Modultask2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\Modultask2.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask2 — копия\obj\Debug\net8.0-windows\ref\Modultask2.dll

@@ -1,0 +1,7 @@
+[
+  { "Id": "W001", "FullName": "Іваненко І.М.", "Education": "Вища", "Specialty": "Програміст", "BirthYear": 1985 },
+  { "Id": "W002", "FullName": "Петренко О.С.", "Education": "Середня", "Specialty": "Економіст", "BirthYear": 1992 },
+  { "Id": "W003", "FullName": "Сидорук Н.В.", "Education": "Вища", "Specialty": "Менеджер", "BirthYear": 1979 },
+  { "Id": "W004", "FullName": "Коваленко П.П.", "Education": "Неповна вища", "Specialty": "Технік", "BirthYear": 1990 },
+  { "Id": "W005", "FullName": "Гончаренко А.Б.", "Education": "Вища", "Specialty": "Аналітик", "BirthYear": 1988 }
+]

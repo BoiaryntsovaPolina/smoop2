@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|solutionrelative:jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\salaryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|solutionrelative:salaryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BFD4EEF-7181-44A4-9F28-3891444CFE7D}|Modultask2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonDataService.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\JsonDataService.cs",
+              "RelativeDocumentMoniker": "JsonDataService.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\JsonDataService.cs",
+              "RelativeToolTip": "JsonDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:35:02.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryRecord.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\SalaryRecord.cs",
+              "RelativeDocumentMoniker": "SalaryRecord.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\SalaryRecord.cs",
+              "RelativeToolTip": "SalaryRecord.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:32:22.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:28:15.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T11:20:40.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-02T11:19:52.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask2 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:19:43.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  { "Id": "W001", "FirstHalf": 12000.5, "SecondHalf": 12500.75 },
+  { "Id": "W002", "FirstHalf": 8000, "SecondHalf": 8200 },
+  { "Id": "W003", "FirstHalf": 15000, "SecondHalf": 15500 },
+  { "Id": "W004", "FirstHalf": 7000, "SecondHalf": 7100 },
+  { "Id": "W005", "FirstHalf": 11000, "SecondHalf": 11500 }
+]

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask1\\jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|solutionrelative:jsondataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask1\\salaryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|solutionrelative:salaryrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\modultask1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F4276A-3750-46A8-8743-DE4E9C06CB19}|Modultask1.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonDataService.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\JsonDataService.cs",
+              "RelativeDocumentMoniker": "JsonDataService.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\JsonDataService.cs",
+              "RelativeToolTip": "JsonDataService.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:57:58.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryRecord.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\SalaryRecord.cs",
+              "RelativeDocumentMoniker": "SalaryRecord.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\SalaryRecord.cs",
+              "RelativeToolTip": "SalaryRecord.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:57:20.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:56:40.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Modultask1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:55:40.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

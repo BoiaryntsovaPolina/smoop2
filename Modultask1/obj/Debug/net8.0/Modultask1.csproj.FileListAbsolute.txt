@@ -1,0 +1,14 @@
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\bin\Debug\net8.0\Modultask1.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\bin\Debug\net8.0\Modultask1.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\bin\Debug\net8.0\Modultask1.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\bin\Debug\net8.0\Modultask1.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\bin\Debug\net8.0\Modultask1.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\Modultask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\Modultask1.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\Modultask1.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\Modultask1.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\Modultask1.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\refint\Modultask1.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\Modultask1.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\Modultask1.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Modultask1\obj\Debug\net8.0\ref\Modultask1.dll
