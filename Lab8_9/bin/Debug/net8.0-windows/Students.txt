@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FirstName>Петро</FirstName>
+    <LastName>Іваненко</LastName>
+    <Age>20</Age>
+    <Gender>Ж</Gender>
+  </Student>
+  <Student>
+    <FirstName>Петро</FirstName>
+    <LastName>Коваль</LastName>
+    <Age>22</Age>
+    <Gender>Ч</Gender>
+  </Student>
+  <Student>
+    <FirstName>Марія</FirstName>
+    <LastName>Сидоренко</LastName>
+    <Age>18</Age>
+    <Gender>Ж</Gender>
+  </Student>
+</Students>

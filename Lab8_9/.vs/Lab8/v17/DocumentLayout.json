@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:viewmodels\\studentsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\views\\addstudentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:views\\addstudentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\views\\addstudentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:views\\addstudentwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\models\\studentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:models\\studentcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\models\\istudentcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:models\\istudentcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\helpers\\watermarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:helpers\\watermarkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\helpers\\inversebooleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:helpers\\inversebooleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\helpers\\inputvalidationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:helpers\\inputvalidationhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\helpers\\dirtyandvalidtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:helpers\\dirtyandvalidtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|d:\\smoop2\\lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0440\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\helpers\\agetostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D325F-194E-4B0E-95AE-3730C356C46A}|Lab8.csproj|solutionrelative:helpers\\agetostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudentWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\AddStudentWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\AddStudentWindow.xaml.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\AddStudentWindow.xaml.cs",
+              "RelativeToolTip": "Views\\AddStudentWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T10:25:50.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentWindow.xaml",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\AddStudentWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\AddStudentWindow.xaml",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\AddStudentWindow.xaml",
+              "RelativeToolTip": "Views\\AddStudentWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T10:23:16.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T09:27:24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAuwI8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:19:27.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T09:14:46.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:14:40.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsViewModel.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModels\\StudentsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StudentsViewModel.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\ViewModels\\StudentsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\StudentsViewModel.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAmwLYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:24:57.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InverseBooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\InverseBooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Helpers\\InverseBooleanToVisibilityConverter.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\InverseBooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "Helpers\\InverseBooleanToVisibilityConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T13:52:36.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InputValidationHelpers.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\InputValidationHelpers.cs",
+              "RelativeDocumentMoniker": "Helpers\\InputValidationHelpers.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\InputValidationHelpers.cs",
+              "RelativeToolTip": "Helpers\\InputValidationHelpers.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T14:22:48.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DirtyAndValidToVisibilityConverter.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\DirtyAndValidToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Helpers\\DirtyAndValidToVisibilityConverter.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\DirtyAndValidToVisibilityConverter.cs",
+              "RelativeToolTip": "Helpers\\DirtyAndValidToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T19:54:51.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WatermarkService.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\WatermarkService.cs",
+              "RelativeDocumentMoniker": "Helpers\\WatermarkService.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\WatermarkService.cs",
+              "RelativeToolTip": "Helpers\\WatermarkService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:26:05.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AgeToStringConverter.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\AgeToStringConverter.cs",
+              "RelativeDocumentMoniker": "Helpers\\AgeToStringConverter.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\AgeToStringConverter.cs",
+              "RelativeToolTip": "Helpers\\AgeToStringConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:25:38.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:25:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentCollection.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Models\\StudentCollection.cs",
+              "RelativeDocumentMoniker": "Models\\StudentCollection.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Models\\StudentCollection.cs",
+              "RelativeToolTip": "Models\\StudentCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:20:06.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentContainer.cs",
+              "DocumentMoniker": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Models\\IStudentContainer.cs",
+              "RelativeDocumentMoniker": "Models\\IStudentContainer.cs",
+              "ToolTip": "D:\\SMOOP2\\Lab8_9_\u043A\u0456\u043D\u0446\u0435\u0432\u0438\u0439\u0420\u0435\u0437 \u2014 \u043A\u043E\u043F\u0438\u044F\\Models\\IStudentContainer.cs",
+              "RelativeToolTip": "Models\\IStudentContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T09:19:48.364Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

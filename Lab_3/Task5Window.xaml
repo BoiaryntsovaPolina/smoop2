@@ -1,0 +1,55 @@
+﻿<Window x:Class="Lab_3.Task5Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3"
+        mc:Ignorable="d"
+         Title="Фунти → Кілограми" Height="220" Width="480" MinWidth="360" MinHeight="180">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Фунти → Кілограми" FontSize="16" FontWeight="Bold" Grid.Row="0" HorizontalAlignment="Center" Margin="0,0,0,8"/>
+
+        <!-- Горизонтальна секція: TextBox | Кнопка -->
+        <Grid Grid.Row="1" Margin="0,0,0,8">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>   <!-- текстове поле займає більшу частину -->
+                <ColumnDefinition Width="1*"/>   <!-- кнопка - менша частина -->
+            </Grid.ColumnDefinitions>
+
+            <TextBox x:Name="PoundsBox"
+                     Grid.Column="0"
+                     MinHeight="30"
+                     VerticalContentAlignment="Center"
+                     HorizontalAlignment="Stretch"
+                     Margin="0,0,8,0"
+                     ToolTip="Введіть число фунтів (наприклад, 150.5)"/>
+
+            <Button Grid.Column="1"
+                    Content="Перетворити"
+                    MinHeight="30"
+                    MinWidth="100"
+                    Click="Convert_Click"
+                    HorizontalAlignment="Stretch"/>
+        </Grid>
+
+        <!-- Результат під елементами: не буде розтягуватися вертикально -->
+        <TextBlock x:Name="ResultText"
+                   Grid.Row="2"
+                   Text="Кілограмів: "
+                   FontSize="14"
+                   VerticalAlignment="Top"
+                   TextWrapping="Wrap"
+                   Margin="0,0,0,6"/>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Очистити" Click="Clear_Click" MinWidth="90" Margin="6,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

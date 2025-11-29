@@ -1,0 +1,100 @@
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\bin\Debug\net8.0-windows\Lab4.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\bin\Debug\net8.0-windows\Lab4.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\bin\Debug\net8.0-windows\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\bin\Debug\net8.0-windows\Lab4.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\refint\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4\obj\Debug\net8.0-windows\ref\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\bin\Debug\net8.0-windows\Lab4.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\bin\Debug\net8.0-windows\Lab4.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\bin\Debug\net8.0-windows\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\bin\Debug\net8.0-windows\Lab4.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\refint\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия\obj\Debug\net8.0-windows\ref\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\refint\Lab4.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab4 — копия — копия\obj\Debug\net8.0-windows\ref\Lab4.dll
+D:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.exe
+D:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.deps.json
+D:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+D:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.dll
+D:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.pdb
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\App.g.cs
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.cache
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.lref
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\MainWindow.baml
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.g.resources
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.dll
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\refint\Lab4.dll
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.pdb
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+D:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\ref\Lab4.dll
+E:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.exe
+E:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.deps.json
+E:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.runtimeconfig.json
+E:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.dll
+E:\SMOOP2\Lab4 — копия — копия\bin\Debug\net8.0-windows\Lab4.pdb
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\App.g.cs
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.cache
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4_MarkupCompile.lref
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\MainWindow.baml
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.g.resources
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfoInputs.cache
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.AssemblyInfo.cs
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.csproj.CoreCompileInputs.cache
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.dll
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\refint\Lab4.dll
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.pdb
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\Lab4.genruntimeconfig.cache
+E:\SMOOP2\Lab4 — копия — копия\obj\Debug\net8.0-windows\ref\Lab4.dll

@@ -1,0 +1,187 @@
+﻿<Window x:Class="Lab8.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:helpers="clr-namespace:Lab8.Helpers"
+        Title="Students MVVM" MinWidth="640" MinHeight="360" Width="900" Height="520">
+    <Window.Resources>
+        <helpers:AgeToStringConverter x:Key="AgeToStringConverter"/>
+        <helpers:InverseBooleanToVisibilityConverter x:Key="InverseBooleanToVisibilityConverter"/>
+        <helpers:DirtyAndValidToVisibilityConverter x:Key="DirtyAndValidToVisibilityConverter"/>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+
+        <Style x:Key="AlternatingListBoxItemStyle" TargetType="ListBoxItem">
+            <Setter Property="Padding" Value="6"/>
+            <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Style.Triggers>
+                <Trigger Property="ItemsControl.AlternationIndex" Value="1">
+                    <Setter Property="Background" Value="#FFF7F7F7"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" Margin="0,0,0,8">
+            <Button Content="Додати" Command="{Binding AddCommand}" MinWidth="90" Margin="0,0,8,0"/>
+            <Button Content="Видалити відмічені" Command="{Binding DeleteSelectedCommand}" MinWidth="150" Margin="0,0,8,0"/>
+            <Button Content="Видалити обраного" Command="{Binding DeleteSelectedSingleCommand}" MinWidth="120" Margin="0,0,8,0"/>
+            <Button Content="Зберегти" Command="{Binding SaveCommand}" MinWidth="90" />
+            <TextBlock Text="{Binding Students.Count, StringFormat=Кількість: {0}}" VerticalAlignment="Center" Margin="12,0,0,0"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" Grid.Column="0" BorderBrush="#CCC" BorderThickness="1" CornerRadius="4" Padding="6">
+            <Grid>
+                <ListBox ItemsSource="{Binding Students}"
+                         SelectedItem="{Binding SelectedStudent}"
+                         ItemContainerStyle="{StaticResource AlternatingListBoxItemStyle}"
+                         AlternationCount="2"
+                         ScrollViewer.VerticalScrollBarVisibility="Auto">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="4">
+                                    <CheckBox IsChecked="{Binding IsSelected}" VerticalAlignment="Center" Margin="0,0,6,0"/>
+                                    <TextBlock Text="{Binding Index}" FontWeight="Bold" Width="24" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                </StackPanel>
+
+                                <StackPanel Grid.Column="1" Orientation="Vertical" Margin="8,2,4,2">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontSize="16" Text="{Binding FullName}" />
+                                        <TextBlock Text=" *" Foreground="Red" FontSize="16" Margin="6,0,0,0" 
+                                                   Visibility="{Binding IsValid, Converter={StaticResource InverseBooleanToVisibilityConverter}}"/>
+                                    </StackPanel>
+                                    <TextBlock FontSize="12" Text="{Binding Age, Converter={StaticResource AgeToStringConverter}}" />
+
+                                    <TextBlock Text="Дані не збережені. Виправте дані." 
+                                               Foreground="Red" FontSize="12" Margin="0,6,0,0" TextWrapping="Wrap"
+                                               Visibility="{Binding IsValid, Converter={StaticResource InverseBooleanToVisibilityConverter}}"/>
+
+                                    <TextBlock FontSize="12" Margin="0,6,0,0" TextWrapping="Wrap"
+                                               Text="Дані не збережені у файл. Збережіть, або вони автоматично збережуться після закриття.">
+                                        <TextBlock.Visibility>
+                                            <MultiBinding Converter="{StaticResource DirtyAndValidToVisibilityConverter}">
+                                                <Binding Path="IsDirty"/>
+                                                <Binding Path="IsValid"/>
+                                            </MultiBinding>
+                                        </TextBlock.Visibility>
+                                    </TextBlock>
+                                </StackPanel>
+
+                                <TextBlock Grid.Column="2" Text="{Binding Gender}" VerticalAlignment="Center" Margin="6" FontWeight="SemiBold"/>
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <TextBlock Text="Список порожній. Додайте студента." 
+                           Visibility="{Binding HasStudents, Converter={StaticResource InverseBooleanToVisibilityConverter}}"
+                           HorizontalAlignment="Center" VerticalAlignment="Center" FontStyle="Italic" Foreground="#666"/>
+            </Grid>
+        </Border>
+
+        <Border Grid.Row="1" Grid.Column="1" BorderBrush="#CCC" BorderThickness="1" CornerRadius="4" Padding="10">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Деталі студента" FontSize="18" FontWeight="Bold" Margin="0,0,0,8"/>
+
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0,4">
+                    <TextBlock Text="Ім'я:" Width="90" VerticalAlignment="Center"/>
+                    <TextBox x:Name="FirstNameTextBox" MinWidth="120" HorizontalAlignment="Stretch"
+                             Style="{StaticResource TextBoxWithValidation}"
+                             helpers:WatermarkService.Watermark="Введіть ім'я, напр.: Ольга"
+                             Text="{Binding SelectedStudent.FirstName, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, NotifyOnValidationError=True}"
+                             PreviewTextInput="Name_PreviewTextInput"
+                             DataObject.Pasting="Name_Pasting"
+                             GotKeyboardFocus="Field_GotKeyboardFocus"
+                             LostKeyboardFocus="FirstName_LostKeyboardFocus"
+                             />
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="0,4">
+                    <TextBlock Text="Прізвище:" Width="90" VerticalAlignment="Center"/>
+                    <TextBox x:Name="LastNameTextBox" MinWidth="120" HorizontalAlignment="Stretch"
+                             Style="{StaticResource TextBoxWithValidation}"
+                             helpers:WatermarkService.Watermark="Введіть прізвище, напр.: Іваненко"
+                             Text="{Binding SelectedStudent.LastName, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, NotifyOnValidationError=True}"
+                             PreviewTextInput="Name_PreviewTextInput"
+                             DataObject.Pasting="Name_Pasting"
+                             GotKeyboardFocus="Field_GotKeyboardFocus"
+                             LostKeyboardFocus="LastName_LostKeyboardFocus"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,4">
+                    <TextBlock Text="Стать (Ч/Ж):" Width="90" VerticalAlignment="Center"/>
+                    <TextBox x:Name="GenderTextBox" Width="60"
+                             Style="{StaticResource TextBoxWithValidation}"
+                             helpers:WatermarkService.Watermark="Ч або Ж"
+                             Text="{Binding SelectedStudent.Gender, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}"
+                             PreviewTextInput="Gender_PreviewTextInput"
+                             DataObject.Pasting="Gender_Pasting"
+                             MaxLength="1" 
+                             GotKeyboardFocus="Field_GotKeyboardFocus"
+                             LostKeyboardFocus="Gender_LostKeyboardFocus"/>
+                    <TextBlock Width="16"/>
+                    <TextBlock Text="Вік:" VerticalAlignment="Center" />
+                    <TextBox x:Name="AgeTextBox" Width="60" Margin="6,0,0,0"
+                             Style="{StaticResource TextBoxWithValidation}"
+                             Text="{Binding SelectedStudent.AgeText, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"
+                             helpers:WatermarkService.Watermark="Число 16-100"
+                             PreviewTextInput="NumberOnly_PreviewTextInput"
+                             DataObject.Pasting="NumberOnly_Pasting"
+                             GotKeyboardFocus="Field_GotKeyboardFocus"
+                             LostKeyboardFocus="AgeText_LostKeyboardFocus"/>
+                </StackPanel>
+
+                <ItemsControl Grid.Row="4" ItemsSource="{Binding SelectedStudentErrors}" Margin="0,8,0,0"
+                              Visibility="{Binding SelectedStudentHasErrors, Converter={StaticResource BooleanToVisibilityConverter}}">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="• " Foreground="Red" FontWeight="Bold" Margin="0,0,6,0"/>
+                                <TextBlock Text="{Binding}" Foreground="Red" TextWrapping="Wrap"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+                <StackPanel Grid.Row="5" Orientation="Vertical" Margin="0,12,0,0">
+                    <TextBlock Text="Порада: натисніть 'Зберегти', щоб зберегти дані. При втраті фокусу з помилкою зміни будуть скасовані." 
+                               FontStyle="Italic" Foreground="#666" Margin="0,8,0,0" 
+                               TextWrapping="Wrap"
+                               MaxWidth="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=Border}}"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <TextBlock Grid.Row="2" Grid.ColumnSpan="2" 
+                   Text="Порада: відмічайте чекбокси ліворуч для множинного видалення." 
+                   Foreground="#444" Margin="0,12,0,0" 
+                   TextWrapping="Wrap"
+                   MaxWidth="{Binding ActualWidth, RelativeSource={RelativeSource AncestorType=Grid}}"/>
+    </Grid>
+</Window>

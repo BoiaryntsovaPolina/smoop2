@@ -1,0 +1,17 @@
+[
+  {
+    "Username": "social_google",
+    "Email": "social_google@google.local",
+    "Password": "social"
+  },
+  {
+    "Username": "social_facebook",
+    "Email": "social_facebook@facebook.local",
+    "Password": "social"
+  },
+  {
+    "Username": "social_twitter",
+    "Email": "social_twitter@twitter.local",
+    "Password": "social"
+  }
+]

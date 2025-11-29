@@ -1,0 +1,30 @@
+﻿<Window x:Class="Lab_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="700" MinHeight="360" MinWidth="520">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="16" >
+            <TextBlock Text="Лабораторна робота №4 — Панелі компонування" 
+                       FontSize="18" FontWeight="Bold" TextAlignment="Center" Margin="0,0,0,12"/>
+            <!-- Окрема панель для кнопок — UniformGrid дозволяє однакові клітинки -->
+            <UniformGrid Rows="2" Columns="3" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,8">
+                <Button x:Name="BtnTask1" Content="Завдання 1" MinWidth="140" MinHeight="48" FontSize="14" Click="BtnTask1_Click"/>
+                <Button x:Name="BtnTask2" Content="Завдання 2" MinWidth="140" MinHeight="48" FontSize="14" Click="BtnTask2_Click"/>
+                <Button x:Name="BtnTask3" Content="Завдання 3" MinWidth="140" MinHeight="48" FontSize="14" Click="BtnTask3_Click"/>
+                <Button x:Name="BtnTask4" Content="Завдання 4" MinWidth="140" MinHeight="48" FontSize="14" Click="BtnTask4_Click"/>
+                <Button x:Name="BtnTask5" Content="Завдання 5" MinWidth="140" MinHeight="48" FontSize="14" Click="BtnTask5_Click"/>
+                <Button x:Name="BtnTask6" Content="Завдання 6" MinWidth="140" MinHeight="48" FontSize="14" Click="BtnTask6_Click"/>
+            </UniformGrid>
+
+            <!-- Пара опцій: відкрити вікно модально чи немодально (інформативно) -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,6,0,0">
+                <TextBlock Text="Відкривати вікна модально:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+                <CheckBox x:Name="ChkModal" VerticalAlignment="Center" IsChecked="False"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

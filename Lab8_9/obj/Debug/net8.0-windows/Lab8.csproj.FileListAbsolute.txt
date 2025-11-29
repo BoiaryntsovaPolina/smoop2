@@ -1,0 +1,265 @@
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_3\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_4\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_5\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_6\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_7\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_8 — копия (2)\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез\obj\Debug\net8.0-windows\ref\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\refint\Lab8.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\ref\Lab8.dll
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.exe
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.deps.json
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.runtimeconfig.json
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.dll
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\bin\Debug\net8.0-windows\Lab8.pdb
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\AddStudentWindow.g.cs
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\App.g.cs
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8_MarkupCompile.cache
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8_MarkupCompile.lref
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\App.baml
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\AddStudentWindow.baml
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Views\MainWindow.baml
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.g.resources
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.AssemblyInfoInputs.cache
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.AssemblyInfo.cs
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.csproj.CoreCompileInputs.cache
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.sourcelink.json
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.dll
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\refint\Lab8.dll
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.pdb
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\Lab8.genruntimeconfig.cache
+D:\SMOOP2\Lab8_9_кінцевийРез — копия\obj\Debug\net8.0-windows\ref\Lab8.dll

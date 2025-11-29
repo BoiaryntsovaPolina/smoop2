@@ -1,0 +1,30 @@
+﻿<Window x:Class="Lab_3.Task4Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3"
+        mc:Ignorable="d"
+        Title="Гра — Приховай кнопки" Height="300" Width="520" MinWidth="420" MinHeight="260">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Завдання 4 — мета: приховати усі кнопки" FontSize="14" FontWeight="Bold" Grid.Row="0" TextAlignment="Center" />
+
+        <WrapPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" ItemHeight="60" ItemWidth="160" Margin="0,12,0,12">
+            <Button x:Name="B1" Content="Білий текст" Click="B1_Click" MinWidth="140" MinHeight="60" Margin="6" Background="LightBlue" Foreground="White" FontWeight="Bold"/>
+            <Button x:Name="B2" Content="Червона" Click="B2_Click" MinWidth="140" MinHeight="60" Margin="6" Background="Tomato" Foreground="Black" FontStyle="Italic"/>
+            <Button x:Name="B3" Content="Зелена" Click="B3_Click" MinWidth="140" MinHeight="60" Margin="6" Background="LightGreen" Foreground="Black"/>
+            <Button x:Name="B4" Content="Фіолет" Click="B4_Click" MinWidth="140" MinHeight="60" Margin="6" Background="MediumPurple" Foreground="White"/>
+            <Button x:Name="B5" Content="Помаранч" Click="B5_Click" MinWidth="140" MinHeight="60" Margin="6" Background="Orange" Foreground="Black"/>
+        </WrapPanel>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Reset" Click="Reset_Click" MinWidth="90" Margin="6"/>
+        </StackPanel>
+    </Grid>
+</Window>

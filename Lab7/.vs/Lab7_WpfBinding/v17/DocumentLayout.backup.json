@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\converters\\nullableintconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:converters\\nullableintconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\converters\\booltoyesnoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:converters\\booltoyesnoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\viewmodels\\candidateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:viewmodels\\candidateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\views\\candidateeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:views\\candidateeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab7_wpfbinding\\views\\candidateeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{48EEB4AD-05E1-4B09-84C8-E519107B8066}|Lab7_WpfBinding.csproj|solutionrelative:views\\candidateeditwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\ViewModels\\CandidateViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\CandidateViewModel.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\ViewModels\\CandidateViewModel.cs",
+              "RelativeToolTip": "ViewModels\\CandidateViewModel.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:23:32.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-20T06:19:36.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Resources\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-20T06:16:57.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Views\\CandidateEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CandidateEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Views\\CandidateEditWindow.xaml.cs",
+              "RelativeToolTip": "Views\\CandidateEditWindow.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:13:52.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Views\\CandidateEditWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\CandidateEditWindow.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Views\\CandidateEditWindow.xaml",
+              "RelativeToolTip": "Views\\CandidateEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-20T06:13:15.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:09:15.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NullableIntConverter.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Converters\\NullableIntConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\NullableIntConverter.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Converters\\NullableIntConverter.cs",
+              "RelativeToolTip": "Converters\\NullableIntConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:06:52.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoolToYesNoConverter.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Converters\\BoolToYesNoConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BoolToYesNoConverter.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Converters\\BoolToYesNoConverter.cs",
+              "RelativeToolTip": "Converters\\BoolToYesNoConverter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:06:20.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:05:36.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "Services\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Services\\CandidateService.cs",
+              "RelativeToolTip": "Services\\CandidateService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:04:39.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Models\\Candidate.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\Models\\Candidate.cs",
+              "RelativeToolTip": "Models\\Candidate.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:04:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-20T06:02:50.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab7_WpfBinding\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAzwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:02:48.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

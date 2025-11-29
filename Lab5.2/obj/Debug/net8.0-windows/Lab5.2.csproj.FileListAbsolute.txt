@@ -1,0 +1,65 @@
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\bin\Debug\net8.0-windows\Lab5.2.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\bin\Debug\net8.0-windows\Lab5.2.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\bin\Debug\net8.0-windows\Lab5.2.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\bin\Debug\net8.0-windows\Lab5.2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\bin\Debug\net8.0-windows\Lab5.2.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\TileControl.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\App.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\TileControl.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\refint\Lab5.2.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\Lab5.2.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab5.2\obj\Debug\net8.0-windows\ref\Lab5.2.dll
+D:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.exe
+D:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.deps.json
+D:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.runtimeconfig.json
+D:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.dll
+D:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.pdb
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\App.g.cs
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2_MarkupCompile.cache
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2_MarkupCompile.lref
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\App.baml
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\MainWindow.baml
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.g.resources
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.AssemblyInfoInputs.cache
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.AssemblyInfo.cs
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.csproj.CoreCompileInputs.cache
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.dll
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\refint\Lab5.2.dll
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.pdb
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.genruntimeconfig.cache
+D:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\ref\Lab5.2.dll
+E:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.exe
+E:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.deps.json
+E:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.runtimeconfig.json
+E:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.dll
+E:\SMOOP2\Lab5.2 — копия\bin\Debug\net8.0-windows\Lab5.2.pdb
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\App.g.cs
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2_MarkupCompile.cache
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2_MarkupCompile.lref
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\App.baml
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\MainWindow.baml
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.g.resources
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.AssemblyInfoInputs.cache
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.AssemblyInfo.cs
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.csproj.CoreCompileInputs.cache
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.dll
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\refint\Lab5.2.dll
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.pdb
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\Lab5.2.genruntimeconfig.cache
+E:\SMOOP2\Lab5.2 — копия\obj\Debug\net8.0-windows\ref\Lab5.2.dll

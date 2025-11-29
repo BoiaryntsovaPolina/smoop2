@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task4window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task4window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task4window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task4window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task1window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task1window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task5window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task5window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task6window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task6window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task6window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task6window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task3window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task3window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task3window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task3window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task2window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task2window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task2window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task2window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task1window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task1window.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\task5window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:task5window.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|c:\\users\\745_ats\\desktop\\smoop_lab\\lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2338918B-C809-46EF-9F3A-578EF676287B}|Lab_3.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task6Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task6Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task6Window.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task6Window.xaml.cs",
+              "RelativeToolTip": "Task6Window.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:15:55.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task5Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task5Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task5Window.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task5Window.xaml.cs",
+              "RelativeToolTip": "Task5Window.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwDMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:15:16.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task4Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task4Window.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task4Window.xaml.cs",
+              "RelativeToolTip": "Task4Window.xaml.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:13:54.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task6Window.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task6Window.xaml",
+              "RelativeDocumentMoniker": "Task6Window.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task6Window.xaml",
+              "RelativeToolTip": "Task6Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:12:27.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Task5Window.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task5Window.xaml",
+              "RelativeDocumentMoniker": "Task5Window.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task5Window.xaml",
+              "RelativeToolTip": "Task5Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:12:10.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task4Window.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task4Window.xaml",
+              "RelativeDocumentMoniker": "Task4Window.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task4Window.xaml",
+              "RelativeToolTip": "Task4Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:11:54.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Task3Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task3Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task3Window.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task3Window.xaml.cs",
+              "RelativeToolTip": "Task3Window.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:09:21.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Task3Window.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task3Window.xaml",
+              "RelativeDocumentMoniker": "Task3Window.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task3Window.xaml",
+              "RelativeToolTip": "Task3Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:08:52.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task2Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task2Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task2Window.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task2Window.xaml.cs",
+              "RelativeToolTip": "Task2Window.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:08:35.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Task2Window.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task2Window.xaml",
+              "RelativeDocumentMoniker": "Task2Window.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task2Window.xaml",
+              "RelativeToolTip": "Task2Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:07:54.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task1Window.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task1Window.xaml",
+              "RelativeDocumentMoniker": "Task1Window.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task1Window.xaml",
+              "RelativeToolTip": "Task1Window.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:06:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Task1Window.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task1Window.xaml.cs",
+              "RelativeDocumentMoniker": "Task1Window.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\Task1Window.xaml.cs",
+              "RelativeToolTip": "Task1Window.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:06:08.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T21:39:55.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\745_ATS\\Desktop\\SMOOP_lab\\Lab_3 \u2014 \u043A\u043E\u043F\u0438\u044F\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:39:48.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

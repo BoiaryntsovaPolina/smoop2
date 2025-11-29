@@ -1,0 +1,64 @@
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task1Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\bin\Debug\net8.0-windows\Lab_3.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\bin\Debug\net8.0-windows\Lab_3.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\bin\Debug\net8.0-windows\Lab_3.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\bin\Debug\net8.0-windows\Lab_3.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\bin\Debug\net8.0-windows\Lab_3.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task2Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task3Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task4Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task5Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task6Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task1Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task2Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task3Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task4Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task5Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Task6Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\refint\Lab_3.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\Lab_3.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3\obj\Debug\net8.0-windows\ref\Lab_3.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\bin\Debug\net8.0-windows\Lab_3.exe
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\bin\Debug\net8.0-windows\Lab_3.deps.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\bin\Debug\net8.0-windows\Lab_3.runtimeconfig.json
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\bin\Debug\net8.0-windows\Lab_3.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\bin\Debug\net8.0-windows\Lab_3.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task1Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task2Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task3Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task4Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task5Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task6Window.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3_MarkupCompile.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3_MarkupCompile.lref
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task1Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task2Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task3Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task4Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task5Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Task6Window.baml
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.g.resources
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.AssemblyInfoInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.AssemblyInfo.cs
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\refint\Lab_3.dll
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.pdb
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\Lab_3.genruntimeconfig.cache
+C:\Users\745_ATS\Desktop\SMOOP_lab\Lab_3 — копия\obj\Debug\net8.0-windows\ref\Lab_3.dll

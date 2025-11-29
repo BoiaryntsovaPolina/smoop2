@@ -1,0 +1,26 @@
+﻿<Window x:Class="Lab_3.Task2Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_3"
+        mc:Ignorable="d"
+        Title="Завдання 2" Height="220" Width="420" MinWidth="340" MinHeight="180">
+    <Grid Margin="12">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Завдання 2" FontSize="16" FontWeight="Bold" Grid.Row="0" HorizontalAlignment="Center" Margin="0,0,0,8"/>
+
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="MyTextBlock" Text="Це приклад довільного тексту у TextBlock. Можна розмістити довшу підказку або опис." TextWrapping="Wrap" Width="300" Margin="0,0,0,8"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Сховати" Click="Hide_Click" MinWidth="100" Margin="6,0"/>
+                <Button Content="Показати" Click="Show_Click" MinWidth="100" Margin="6,0"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

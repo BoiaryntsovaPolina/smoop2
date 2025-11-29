@@ -1,0 +1,57 @@
+﻿<Window x:Class="Lab7_WpfBinding.Views.CandidateEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Редагувати кандидата" Height="480" Width="650" ResizeMode="CanResize">
+    <ScrollViewer>
+        <Grid Margin="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Інформація про кандидата" FontSize="16" FontWeight="Bold" />
+
+            <Grid Grid.Row="1" Margin="0,10,0,10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="3*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Orientation="Vertical" HorizontalAlignment="Stretch">
+                    <TextBlock Text="П.І.П." />
+                    <TextBox Text="{Binding FullName, UpdateSourceTrigger=PropertyChanged}" />
+
+                    <TextBlock Text="Дата народження" Margin="0,8,0,0" />
+                    <DatePicker SelectedDate="{Binding BirthDate, UpdateSourceTrigger=PropertyChanged}" />
+
+                    <TextBlock Text="Освіта" Margin="0,8,0,0" />
+                    <ComboBox SelectedItem="{Binding Education, UpdateSourceTrigger=PropertyChanged}" IsEditable="False">
+                        <ComboBoxItem>Середня</ComboBoxItem>
+                        <ComboBoxItem>Середня спеціальна</ComboBoxItem>
+                        <ComboBoxItem>Вища</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Stretch">
+                    <TextBlock Text="Мови (наприклад: 'English:Fluent;German:Read')" TextWrapping="Wrap" />
+                    <TextBox Text="{Binding Languages, UpdateSourceTrigger=PropertyChanged}" AcceptsReturn="True" Height="60" />
+
+                    <StackPanel Orientation="Horizontal" Margin="0,8,0,0">
+                        <CheckBox IsThreeState="True" IsChecked="{Binding HasComputerSkills, Mode=TwoWay}" Content="Володію комп'ютером" />
+                    </StackPanel>
+
+                    <TextBlock Text="Стаж (років)" Margin="0,8,0,0" />
+                    <TextBox Text="{Binding ExperienceYears, Converter={StaticResource NullableIntConverter}, UpdateSourceTrigger=PropertyChanged, ValidatesOnExceptions=True}" />
+
+                    <CheckBox IsThreeState="True" IsChecked="{Binding HasRecommendations, Mode=TwoWay}" Content="Є рекомендації" Margin="0,8,0,0" />
+                </StackPanel>
+            </Grid>
+
+            <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,8,0,0">
+                <Button Width="90" Content="Зберегти" Click="Save_Click" Margin="4" />
+                <Button Width="90" Content="Скасувати" Click="Cancel_Click" Margin="4" />
+            </StackPanel>
+        </Grid>
+    </ScrollViewer>
+</Window>
