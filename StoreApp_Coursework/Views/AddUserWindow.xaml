@@ -1,0 +1,46 @@
+﻿<Window x:Class="StoreApp.Views.AddUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Додати користувача" Height="280" Width="400" 
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Grid Margin="15">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Логін:" VerticalAlignment="Center"/>
+        <TextBox Grid.Column="1" Name="TxtLogin" Height="25" Margin="0,0,0,10" VerticalContentAlignment="Center"/>
+
+        <TextBlock Grid.Row="1" Text="Пароль:" VerticalAlignment="Center"/>
+        <Grid Grid.Row="1" Grid.Column="1" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <PasswordBox Grid.Column="0" Name="TxtPass" Height="25" VerticalContentAlignment="Center"/>
+            <TextBox Grid.Column="0" Name="TxtPassVisible" Height="25" VerticalContentAlignment="Center" Visibility="Collapsed"/>
+
+            <Button Grid.Column="1" Content="👁" Width="30" Height="25" Margin="5,0,0,0" 
+                    Click="BtnEye_Click" Background="Transparent" BorderThickness="0"/>
+        </Grid>
+
+        <TextBlock Grid.Row="2" Text="Роль:" VerticalAlignment="Center"/>
+        <ComboBox Grid.Row="2" Grid.Column="1" Name="CbRole" Height="25" SelectedIndex="0">
+            <ComboBoxItem Content="Admin"/>
+            <ComboBoxItem Content="Director"/>
+            <ComboBoxItem Content="Loader"/>
+        </ComboBox>
+
+        <StackPanel Grid.Row="3" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+            <Button Content="Додати" Width="100" Click="BtnAdd_Click" Background="#4CAF50" Foreground="White"/>
+            <Button Content="Скасувати" Width="100" Click="BtnCancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

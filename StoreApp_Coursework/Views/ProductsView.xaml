@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="StoreApp.Views.ProductsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:vm="clr-namespace:StoreApp.ViewModels"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="12">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="0,0,12,0">
+            <TextBlock Text="Керування" FontWeight="Bold" FontSize="16" Margin="0,0,0,15"/>
+
+            <Button Content="Додати товар" Command="{Binding AddCommand}" 
+                    Background="#4CAF50" Foreground="White" Height="30" Margin="0,0,0,5"/>
+
+            <Button Content="Редагувати" Command="{Binding EditCommand}" Height="30" Margin="0,5"/>
+
+            <Button Content="Видалити обрані" 
+                    Command="{Binding DeleteCommand}" 
+                    CommandParameter="{Binding ElementName=LvProducts, Path=SelectedItems}"
+                    Background="#EF9A9A" BorderBrush="#E57373" Height="30" Margin="0,5"/>
+
+            <TextBlock Text="Пошук:" Margin="0,20,0,5" FontWeight="SemiBold"/>
+            <TextBox Name="TxtSearch" Height="30" VerticalContentAlignment="Center" TextChanged="TxtSearch_TextChanged"/>
+        </StackPanel>
+
+        <ListView Grid.Column="1" Name="LvProducts" 
+                  ItemsSource="{Binding Products}" 
+                  SelectedItem="{Binding Selected}" 
+                  SelectionMode="Extended"
+                  BorderBrush="#DDDDDD" BorderThickness="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Назва" Width="200" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Категорія" Width="120" DisplayMemberBinding="{Binding Category}"/>
+                    <GridViewColumn x:Name="ColLocation" Header="Місце зберігання" Width="150" DisplayMemberBinding="{Binding Location}"/>
+
+                    <GridViewColumn Header="К-сть" Width="60" DisplayMemberBinding="{Binding Quantity}"/>
+
+                    <GridViewColumn Header="Од." Width="50" DisplayMemberBinding="{Binding Unit}"/>
+
+                    <GridViewColumn Header="Ціна (грн)" Width="100" DisplayMemberBinding="{Binding Price}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</UserControl>

@@ -1,0 +1,44 @@
+﻿<Window x:Class="StoreApp.Views.AuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вхід до системи" Height="420" Width="380" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid Margin="25">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel HorizontalAlignment="Center" Margin="0,0,0,20">
+            <TextBlock Text="StoreApp" FontSize="26" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <TextBlock Name="TxtModeHint" Text="(Режим)" FontSize="12" Foreground="Gray" HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" VerticalAlignment="Center">
+            <TextBlock Text="Логін" FontWeight="SemiBold" Margin="0,10,0,3"/>
+            <TextBox Name="TxtUsername" Height="30" Padding="5,0" VerticalContentAlignment="Center"/>
+            <TextBlock Name="ErrLogin" Style="{StaticResource ErrorTextStyle}"/>
+
+            <TextBlock Text="Пароль" FontWeight="SemiBold" Margin="0,10,0,3"/>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <PasswordBox Grid.Column="0" Name="PwdBox" Height="30" Padding="5,0" VerticalContentAlignment="Center"/>
+                <TextBox Grid.Column="0" Name="TxtPasswordVisible" Height="30" Padding="5,0" VerticalContentAlignment="Center" Visibility="Collapsed"/>
+
+                <Button Grid.Column="1" Content="👁" Width="30" Height="30" Margin="5,0,0,0" 
+                        Background="Transparent" BorderBrush="Transparent" Click="BtnEye_Click"/>
+            </Grid>
+            <TextBlock Name="ErrPass" Style="{StaticResource ErrorTextStyle}"/>
+
+            <TextBlock Name="TxtGlobalError" Foreground="Red" HorizontalAlignment="Center" Margin="0,10" TextWrapping="Wrap" TextAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Margin="0,10,0,0">
+            <Button Content="Увійти" Click="BtnLogin_Click" Height="35" Background="#4CAF50" Foreground="White" FontWeight="Bold"/>
+            <Button Name="BtnRegister" Content="Зареєструватися" Click="BtnRegister_Click" Background="Transparent" BorderThickness="0" Foreground="#1976D2" Margin="0,5,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

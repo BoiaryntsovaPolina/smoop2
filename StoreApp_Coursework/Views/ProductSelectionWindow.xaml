@@ -1,0 +1,54 @@
+﻿<Window x:Class="StoreApp.Views.ProductSelectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Оберіть товар" Height="400" Width="550" 
+        WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Оберіть товар зі списку:" FontWeight="Bold" Margin="0,0,0,5"/>
+
+        <ListView Grid.Row="1" Name="LbProducts" SelectionChanged="LbProducts_SelectionChanged" BorderBrush="Gray" BorderThickness="1">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Назва" Width="200" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Категорія" Width="100" DisplayMemberBinding="{Binding Category}"/>
+                    <GridViewColumn Header="Залишок" Width="70" DisplayMemberBinding="{Binding Quantity}"/>
+
+                    <GridViewColumn Header="Од." Width="50" DisplayMemberBinding="{Binding Unit}"/>
+
+                    <GridViewColumn Header="Ціна" Width="80" DisplayMemberBinding="{Binding Price}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Border Grid.Row="2" Margin="0,15,0,0" Padding="10" Background="#F5F5F5" BorderBrush="#E0E0E0" BorderThickness="1" CornerRadius="4">
+            <StackPanel>
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Доступно на складі: " Foreground="Gray"/>
+                    <TextBlock Name="TxtAvailable" Text="-" FontWeight="Bold"/>
+
+                    <TextBlock Name="TxtUnitLabel" Text="" Foreground="Gray" Margin="5,0,0,0"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <TextBlock Text="Кількість для накладної: " VerticalAlignment="Center"/>
+                    <TextBox Name="TxtQuantityInput" Width="80" Margin="10,0,0,0" Height="25" VerticalContentAlignment="Center"
+                             PreviewTextInput="TxtNumbersOnly_PreviewTextInput" Text="1"/>
+
+                    <TextBlock Name="TxtUnitLabelInput" Text="" VerticalAlignment="Center" Margin="5,0,0,0" FontWeight="Bold"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,15,0,0">
+            <Button Content="Додати в накладну" Click="BtnSelect_Click" Width="140" Height="30" Background="#4CAF50" Foreground="White"/>
+            <Button Content="Скасувати" Click="BtnCancel_Click" Width="100" Height="30" Margin="10,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
